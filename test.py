@@ -1,4 +1,4 @@
 import streamlit as st
 st.write('hello world')
 st.write('hello world again')
-st.ballon()
+st.balloons()
